@@ -1,0 +1,517 @@
+/*Global css*/
+
+
+body{
+	
+}
+
+/*header section start*/
+header{
+	background: url(../img/homepage/mainbanner.jpg) no-repeat center top;
+	background-size: cover;
+}
+
+
+.img-center{
+	display: block;
+	width: 390px;
+	padding-top: 65px;
+}
+nav ul{
+
+color: #fff;
+}
+nav ul li{
+
+display: inline-block;
+
+padding-left: 67px;
+
+padding-top: 89px;
+}
+nav ul a{
+
+color: #fff;
+}
+.header-content{
+
+}
+.header-content span{
+
+display: block;
+
+width: 25px;
+
+border-bottom: 2px solid;
+
+margin-top: 75px;
+
+color: #8F8F8F;
+}
+.header-content h2{
+	
+background-color: #0000007a;
+	
+color: #fff;
+	
+width: 540px;
+	
+padding: 8px;
+	
+font-size: 51px;
+	
+margin-top: 140px;
+	
+padding-left: 22px;
+}
+.header-content p{
+	
+color: #fff;
+	
+margin-top: 30px;
+	
+font-size: 14px;
+	
+margin-bottom: 120px;
+}
+.btn-custom{
+
+width: 315px;
+
+padding: 10px;
+
+background-color: transparent;
+
+color: #fff;
+
+margin-top: 40px;
+
+margin-bottom: 280px;
+
+border: 1px solid #fff;
+
+transition: 0.6s ease;
+}
+.btn-custom:hover{
+	background-color: #000000ba;
+}
+
+/*header section end*/
+/*section one starts*/
+.section-one{
+	background-color: #F6F6F6;
+}
+.section0ne-content{
+}
+.section0ne-content h2{
+
+margin-top: 180px;
+
+font-size: 47px;
+}
+.section0ne-content span{
+
+display: block;
+
+width: 25px;
+
+border-bottom: 2px solid;
+
+margin-top: 40px;
+
+margin-bottom: 55px;
+
+color: #8F8F8F;
+}
+.section0ne-content p{
+
+color: #8F8F8F;
+
+margin-bottom: 170px;
+}
+/*section one text file end*/
+.section0ne-car{
+
+}
+.car-bg{
+	
+margin-top: -50%;
+	
+margin-left: -72px;
+}
+
+.section0ne-carimg{
+
+}
+.car-main{margin-top: -581px;width: 282px;margin-left: 266px;}
+/*section one end*/
+/*section two starts*/
+.row-up{
+	
+}
+.section-two{
+	background-color: #29282E;
+	margin-top: -104px;
+}
+.sectiontwo-content{
+
+}
+.sectiontwo-content h2{
+
+color: #fff;
+
+margin-top: 128px;
+
+font-size: 43px;
+}
+.sectiontwo-content p{
+
+color: #E4E4E4;
+
+padding-right: 27px;
+
+margin-bottom: 70px;
+}
+.sectiontwo-content span{
+
+display: block;
+
+width: 25px;
+
+border-bottom: 2px solid;
+
+margin-top: 30px;
+
+color: #E4E4E4;
+
+margin-bottom: 65px;
+}
+
+.btn-two{
+
+background-color: transparent;
+
+color: #fff;
+
+font-size: 12px;
+
+padding: 9px 12px;
+
+margin-bottom: 140px;
+
+transition: 0.6s ease;
+}
+.btn-two:hover{background-color: #ffffffc9;color: black;}
+.car2-main{
+	
+margin-top: 264px;
+}
+/*section two end*/
+/*footer section*/
+.bg-color{
+	
+background-color: #EE4035;
+}
+.footer-part{
+
+text-align: center;
+
+padding: 13px;
+}
+.footer-part p{
+	
+margin-top: 19px;
+	
+color: #fff;
+}
+/*footer section end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*......|..................................................|.......*/
+/*......|..................................................|.......*/
+/*......|..................................................|.......*/
+
+
+
+/*Media query*/
+
+/*Movile device*/
+@media (min-width: 0px) and (max-width: 500px) {
+/*Mobile-header section start*/
+header{
+	background: url(../img/homepage/mainbanner1.jpg) no-repeat center top;
+	background-size: cover;
+}
+
+
+.img-center{
+	display: block;
+	width: 390px;
+	padding-top: 44px;
+	margin: 0 auto;
+	text-align: center;
+}
+nav ul{
+
+color: #fff;
+}
+nav ul li{
+
+display: inline-block;
+
+padding-left: 10px;
+
+padding-top: 10px;
+
+text-align: center;
+
+margin: 0 auto;
+}
+nav ul a{
+
+color: #fff;
+}
+.header-content{
+
+}
+.header-content span{
+
+display: block;
+
+width: 25px;
+
+border-bottom: 2px solid;
+
+margin-top: 44px;
+
+color: #8F8F8F;
+}
+.header-content h2{
+	
+background-color: #0000007a;
+	
+color: #fff;
+	
+width: 294px;
+	
+padding: 8px;
+	
+font-size: 27px;
+	
+margin-top: 53px;
+	
+padding-left: 22px;
+}
+.header-content p{
+	
+color: #fff;
+	
+margin-top: 30px;
+	
+font-size: 13px;
+	
+margin-bottom: 1px;
+}
+.btn-custom{
+
+width: 149px;
+
+padding: 5px;
+
+background-color: transparent;
+
+color: #fff;
+
+margin-top: 40px;
+
+margin-bottom: 99px;
+
+border: 1px solid #fff;
+
+transition: 0.6s ease;
+}
+.btn-custom:hover{
+	background-color: #000000ba;
+}
+
+/*Mobile-header section end*/
+/*Mobile-section one starts*/
+.section-one{
+	background-color: #F6F6F6;
+}
+.section0ne-content{
+}
+.section0ne-content h2{
+
+margin-top: 55px;
+
+font-size: 27px;
+
+text-align: center;
+}
+.section0ne-content span{
+
+display: block;
+
+width: 26px;
+
+border-bottom: 2px solid;
+
+margin-top: 28px;
+
+margin-bottom: 24px;
+
+color: #8F8F8F;
+}
+.section0ne-content p{
+
+color: #8F8F8F;
+
+margin-bottom: 213px;
+}
+/*Mobile-section one text file end*/
+.section0ne-car{
+
+}
+.car-bg{
+	
+margin-top: -50%;
+	
+margin-left: -72px;
+	
+display: none;
+}
+
+.section0ne-carimg{
+
+}
+.car-main{margin-top: -282px;width: 282px;margin-left: 49px;margin-bottom: 28px;}
+/*Mobile-section one end*/
+/*Mobile-section two starts*/
+.row-up{
+	
+}
+.section-two{
+	background-color: #29282E;
+	margin-top: -104px;
+}
+.sectiontwo-content{
+
+}
+.sectiontwo-content h2{
+
+color: #fff;
+
+margin-top: 40px;
+
+font-size: 37px;
+
+text-align: inherit;
+}
+.sectiontwo-content p{
+
+color: #E4E4E4;
+
+padding-right: 0px;
+
+text-align: justify;
+
+margin-bottom: 55px;
+}
+.sectiontwo-content span{
+
+display: block;
+
+width: 25px;
+
+border-bottom: 2px solid;
+
+margin-top: 30px;
+
+color: #E4E4E4;
+
+margin-bottom: 45px;
+}
+
+.btn-two{
+
+background-color: transparent;
+
+color: #fff;
+
+font-size: 12px;
+
+padding: 9px 12px;
+
+margin-bottom: 0px;
+
+transition: 0.6s ease;
+}
+.btn-two:hover{background-color: #ffffffc9;color: black;}
+.car2-main{
+	
+margin-bottom: 35px;
+	
+margin-top: 55px;
+}
+/*Mobile-section two end*/
+/*Mobile-footer section*/
+.bg-color{
+	
+background-color: #EE4035;
+}
+.footer-part{
+
+text-align: center;
+
+padding: 5px;
+}
+.footer-part p{
+	
+margin-top: 19px;
+	
+color: #fff;
+}
+/*Mobile-footer section end*/
+
+
+
+
+
+
+/*....*/
+}
+/*Movile device closed*/
+
+/*small device*/
+
+@media (min-width: 500.01px) and (max-width: 768px) {
+
+}
+/*small device end*/
+
+
+/*medium device*/
+@media (min-width: 768.01px) and (max-width: 1200px) {
+
+}
+/*medium device end*/
+
+/*large device*/
+@media (min-width: 678.01px) {
+
+}
+/*large device end*/
